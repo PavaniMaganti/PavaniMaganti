@@ -62,7 +62,7 @@ Built a Retrieval-Augmented Generation chatbot designed to improve response accu
 
 **Tech:** Python, NLP, LLMs, RAG, LangChain, Embeddings, Vector Databases
 
-https://www.linkedin.com/in/pavani-maganti-4b0501224/
+https://github.com/PavaniMaganti/privacy-aware-organisational-chatbot/blob/main/README.md
 
 ---
 
