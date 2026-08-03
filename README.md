@@ -72,6 +72,8 @@ Developed an interactive analytics dashboard to identify key drivers of employee
 
 **Tech:** Python, Power BI, Data Analysis, Business Intelligence, Data Visualization
 
+https://github.com/PavaniMaganti/HR-Workforce-Analytics-Employee-Retention/blob/main/README.md
+
 ---
 
 ### 🔹 Customer Churn Prediction & Retention Analytics
@@ -79,6 +81,8 @@ Developed an interactive analytics dashboard to identify key drivers of employee
 Analysed customer behaviour data to identify churn drivers such as contract type, tenure, service usage, and satisfaction levels, supporting data-driven customer retention decisions.
 
 **Tech:** Python, Machine Learning, Data Analysis, Predictive Analytics
+
+https://github.com/PavaniMaganti/telecom-customer-churn-prediction/blob/main/README.md
 
 ---
 
@@ -88,6 +92,8 @@ Developed a deep learning model to detect malicious network traffic and identify
 
 **Tech:** Python, TensorFlow, Deep Learning, Machine Learning
 
+https://github.com/PavaniMaganti/Detecting-and-Preventing-the-DDoS-attack-in-Network/blob/main/README.md
+
 ---
 
 ### 🔹 Healthcare Prediction & Analytics Application
@@ -96,6 +102,8 @@ Created a machine learning-based healthcare analytics project using predictive m
 
 **Tech:** Python, Scikit-learn, Machine Learning, Power BI
 
+https://github.com/PavaniMaganti/AI-Healthcare-Guidance-Application/blob/main/README.md
+
 ---
 
 ### 🔹 SQL Business Intelligence & Analytics Project
@@ -103,6 +111,8 @@ Created a machine learning-based healthcare analytics project using predictive m
 Currently building a SQL-based analytics project focused on data exploration, KPI analysis, joins, aggregations, window functions, and business intelligence reporting.
 
 **Tech:** SQL, Data Analysis, Business Intelligence, Database Management
+
+https://github.com/PavaniMaganti/E-Commerce-Sales-Customer-Analytics-SQL/blob/main/README.md
 
 ---
 
